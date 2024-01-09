@@ -1,4 +1,4 @@
-**cricbuzz**
+# cricbuzz
 Introduction Cricbuzz API:
 
 
